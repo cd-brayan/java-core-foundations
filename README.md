@@ -4,7 +4,7 @@ Repositorio enfocado en la consolidación de fundamentos de programación, lógi
 
 ## 📁 Módulos del Repositorio
 
-### [Módulo 01: Facturación y Órdenes de Compra (`01-facturacion-orden-compra`)
+### [Módulo 01: Facturación y Órdenes de Compra (`01-facturacion-orden-compra`)]
 * **Archivo:** `FacturaApplet.java`
 * **Lógica implementada:** 
   * Captura y validación de datos de cliente y productos.
@@ -12,9 +12,16 @@ Repositorio enfocado en la consolidación de fundamentos de programación, lógi
   * Acumuladores para el cálculo del valor total general de compra.
   * Manejo de eventos de interfaz de usuario para cálculo reactivo.
 
+### [Módulo 02: Eventos y Manipulación de Estado en UI (`02-eventos-interfaz-grafica`)]
+* **Archivo:** `formApplet.java`
+* **Lógica implementada:**
+  * Implementación de interfaces de escucha de eventos (`ActionListener`).
+  * Captura de acciones de usuario sobre botones de comando (`actionPerformed`).
+  * Manipulación reactiva de propiedades de interfaz gráfica y renderizado visual en tiempo de ejecución.
+
 ---
 
 ### 📅 Próximas entregas del sprint:
-* **Módulo 02:** Estructuras de decisión y clasificación geométrica (`Triangulos`).
-* **Módulo 03:** Estructuras cíclicas y cálculo estadístico (`Promedio Notas`).
-* **Módulo 04:** Conversión temporal y optimización de unidades (`Tiempo`).
+* **Módulo 03:** Conversión temporal y optimización de magnitudes (`Tiempo`).
+* **Módulo 04:** Estructuras de decisión y clasificación geométrica (`Triangulos`).
+* **Módulo 05:** Estructuras cíclicas y cálculo estadístico (`Promedio Notas`).
