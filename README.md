@@ -21,7 +21,15 @@ Repositorio enfocado en la consolidación de fundamentos de programación, lógi
 
 ---
 
+### [Módulo 03: Conversión de Unidades de Tiempo (`03-conversion-unidades-tiempo`)]
+* **Archivo:** `TiempoApplet.java`
+* **Lógica implementada:**
+  * Captura de datos temporales mediante campos de entrada de usuario (`JTextField`).
+  * Algoritmo de conversión secuencial de días a unidades de tiempo (horas, minutos y segundos).
+  * Renderizado reactivo de resultados en interfaz gráfica mediante `ActionListener`.
+  * Refactorización a arquitectura moderna nativa `JFrame` desacoplada de `JApplet`.
+---
+
 ### 📅 Próximas entregas del sprint:
-* **Módulo 03:** Conversión temporal y optimización de magnitudes (`Tiempo`).
 * **Módulo 04:** Estructuras de decisión y clasificación geométrica (`Triangulos`).
 * **Módulo 05:** Estructuras cíclicas y cálculo estadístico (`Promedio Notas`).
