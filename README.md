@@ -35,7 +35,10 @@ Repositorio enfocado en la consolidación de fundamentos de programación, lógi
   * Renderizado vectorial 2D en tiempo real sobre lienzo gráfico (`java.awt.Graphics`).
   * Desacoplamiento de `AbsoluteLayout` heredado y migración integral a `JFrame` sobre Java 21.
 
----
-
-### 📅 Próximas entregas del sprint:
-* **Módulo 05:** Estructuras cíclicas y cálculo estadístico (`Promedio Notas`).
+### [Módulo 05: Estructuras de Control Repetitivas y Promedios (`05-control-ciclos`)]
+* **Archivo:** `AA4_EV02_Ciclos.java`
+* **Lógica implementada:**
+  * Implementación de ciclos iterativos (`for` / `while`) para procesamiento dinámico de calificaciones y cálculo de promedios académicos.
+  * Selección condicional de asignatura y control de volumen de registros por lote.
+  * Interfaz gráfica Swing refactorizada con diseño en retícula de dos columnas sin dependencias viejas de NetBeans.
+  * Migración limpia a `JFrame` nativo sobre Java 21.
